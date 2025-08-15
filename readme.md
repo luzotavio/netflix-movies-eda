@@ -64,8 +64,3 @@ O projeto seguiu um pipeline estruturado de análise de dados:
 
 ---
 
-## 🔗 Contato
-
-*Para mais informações sobre o projeto, me encontre no LinkedIn!*
-
-[Seu Nome no LinkedIn](SEU_LINK_AQUI)
